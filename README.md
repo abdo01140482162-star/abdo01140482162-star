@@ -5,16 +5,16 @@
      ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=200&amp;section=header&amp;text=AbdulRahman&amp;fontSize=62&amp;fontColor=22D3EE&amp;animation=fadeIn" width="100%" alt="AbdulRahman — Data Engineering and AI/ML banner" />
+  <img src="https://raw.githubusercontent.com/abdo01140482162-star/abdo01140482162-star/main/assets/banner.svg" width="100%" alt="AbdulRahman — Data Analyst, Data Engineering and AI/ML banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Data+Engineer+in+the+making;Machine+Learning+and+AI;Python+%C2%B7+SQL+%C2%B7+Power+BI;Building+data+solutions+that+ship" width="680" alt="Roles: data engineering, machine learning, Python, SQL, Power BI" />
+  <img src="https://raw.githubusercontent.com/abdo01140482162-star/abdo01140482162-star/main/assets/typing.svg" width="680" alt="Animated roles: Data Analyst, Data Engineer, ML Enthusiast" />
 </div>
 
 <div align="center">
 
-**I turn messy data into clear decisions — and models into working products.**
+**I'm a Data Analyst first — turning messy data into clear decisions — and I build ML models into working products.**
 
 Data Engineering &amp; AI/ML enthusiast, currently studying at **South Valley National University**. I build end-to-end projects in **Python** and **SQL**, explore them in **Jupyter**, and communicate the results with **Power BI**, **Tableau** and **Excel**. Certified by **Stanford / DeepLearning.AI**, **IBM** and **Google** in machine learning and data analytics — and looking for an **internship or junior role** where data actually reaches real users.
 
@@ -195,14 +195,11 @@ Data Engineering &amp; AI/ML enthusiast, currently studying at **South Valley Na
 
 ---
 
-## 🏅 Achievements
+## 🏅 Milestones
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=abdo01140482162-star&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=2&amp;margin-w=8&amp;margin-h=8" />
-  <img src="https://trophy.ryglcloud.net/?username=abdo01140482162-star&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=2&amp;margin-w=8&amp;margin-h=8" width="100%" alt="GitHub trophies" />
-</picture>
+<img src="https://raw.githubusercontent.com/abdo01140482162-star/abdo01140482162-star/main/assets/medals.svg" width="680" alt="Milestones: 8 repositories, 1+ year experience, 27 commits" />
 
 </div>
 
@@ -241,5 +238,7 @@ Data Engineering &amp; AI/ML enthusiast, currently studying at **South Valley Na
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=120&amp;section=footer" width="100%" alt="Decorative wave footer" />
+
+<sub>Built with ☕ and curiosity · AbdulRahman M. Mohamed</sub>
+
 </div>
