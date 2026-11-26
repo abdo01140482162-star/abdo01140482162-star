@@ -5,7 +5,7 @@
      ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=200&amp;section=header&amp;text=AbdulRahman&amp;fontSize=62&amp;fontColor=22D3EE&amp;fontAlignY=38&amp;desc=Data%20Engineering%20%C2%B7%20AI%20%26%20ML&amp;descSize=17&amp;descAlignY=60&amp;descColor=e6edf3&amp;animation=fadeIn" width="100%" alt="AbdulRahman — Data Engineering and AI/ML banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=200&amp;section=header&amp;text=AbdulRahman&amp;fontSize=62&amp;fontColor=22D3EE&amp;animation=fadeIn" width="100%" alt="AbdulRahman — Data Engineering and AI/ML banner" />
 </div>
 
 <div align="center">
