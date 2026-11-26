@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150">
+  <rect width="680" height="150" fill="#0B1220" rx="10"/>
+  <text x="340" y="28" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" fill="#8B95A5" letter-spacing="1">GITHUB MILESTONES</text>
+
+  <!-- Medal 1: Repositories -->
+  <g transform="translate(48,48)">
+    <circle cx="46" cy="36" r="30" fill="#6C63FF" opacity="0.18"/>
+    <circle cx="46" cy="36" r="22" fill="#6C63FF"/>
+    <text x="46" y="44" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#ffffff">8</text>
+    <text x="46" y="80" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#C9D1D9">Repositories</text>
+  </g>
+
+  <!-- Medal 2: Experience -->
+  <g transform="translate(266,48)">
+    <circle cx="46" cy="36" r="30" fill="#22D3EE" opacity="0.18"/>
+    <circle cx="46" cy="36" r="22" fill="#22D3EE"/>
+    <text x="46" y="44" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#0B1220">1+</text>
+    <text x="46" y="80" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#C9D1D9">Years Experience</text>
+  </g>
+
+  <!-- Medal 3: Commits -->
+  <g transform="translate(484,48)">
+    <circle cx="46" cy="36" r="30" fill="#A78BFA" opacity="0.18"/>
+    <circle cx="46" cy="36" r="22" fill="#A78BFA"/>
+    <text x="46" y="44" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#0B1220">27</text>
+    <text x="46" y="80" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#C9D1D9">Commits</text>
+  </g>
+</svg>
