@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="50" viewBox="0 0 680 50">
+  <rect width="680" height="50" fill="#0B1220" rx="6"/>
+  <text x="340" y="32" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="600" fill="#22D3EE">
+    Data Analyst
+    <animate attributeName="opacity" values="1;1;1;0;0;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="340" y="32" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="600" fill="#22D3EE" opacity="0">
+    Data Engineer
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="340" y="32" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="600" fill="#22D3EE" opacity="0">
+    ML Enthusiast
+    <animate attributeName="opacity" values="0;0;0;0;1;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="340" y="32" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="600" fill="#6C63FF" opacity="0">
+    Python · SQL · Power BI
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;1;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+</svg>
