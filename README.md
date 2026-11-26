@@ -5,7 +5,7 @@
      ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=200&amp;section=header&amp;text=AbdulRahman&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Engineering%20%C2%B7%20AI%20%26%20ML&amp;descSize=17&amp;descAlignY=60&amp;descColor=e6edf3&amp;animation=fadeIn" width="100%" alt="AbdulRahman — Data Engineering and AI/ML banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=200&amp;section=header&amp;text=AbdulRahman&amp;fontSize=62&amp;fontColor=22D3EE&amp;fontAlignY=38&amp;desc=Data%20Engineering%20%C2%B7%20AI%20%26%20ML&amp;descSize=17&amp;descAlignY=60&amp;descColor=e6edf3&amp;animation=fadeIn" width="100%" alt="AbdulRahman — Data Engineering and AI/ML banner" />
 </div>
 
 <div align="center">
@@ -241,5 +241,5 @@ Data Engineering &amp; AI/ML enthusiast, currently studying at **South Valley Na
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=120&amp;section=footer" width="100%" alt="Decorative wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0B1220&amp;height=120&amp;section=footer" width="100%" alt="Decorative wave footer" />
 </div>
